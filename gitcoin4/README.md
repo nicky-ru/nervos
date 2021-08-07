@@ -14,4 +14,4 @@ Screenshot of the console output immediately after I have successfully submitted
 
 ![screenshot of the console output](https://github.com/nicky-ru/nervos/blob/dd3bb781c59e1974cdf7c82cad6a473bc8fda6d5/gitcoin4/Screen%20Shot%202021-08-07%20at%206.45.41%20PM.png)
 
-### SUDT ID: 0x60c8c0036040720404d4e67508a0d41e5bdd11486ec673c8013c7213bf76cb0b
+### SUDT ID: 296
