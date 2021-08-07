@@ -2,7 +2,7 @@
 
 This is a screenshot of the console output immediately after I have successfully issued a smart contract call.
 
-![screenshot of the console output](https://github.com/nicky-ru/nervos/blob/0d8ba94506ec315139aa39a5c59e39ddadab455a/gitcoin3/console_screenshot.png)
+![screenshot of the console output](https://github.com/nicky-ru/nervos/blob/c416f55bb30eb3cde6ec14fce01da68daacaf2ec/gitcoin3/console_screenshot.png)
 
 This is the transaction hash from the console output:
 
