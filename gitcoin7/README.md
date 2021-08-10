@@ -9,6 +9,7 @@ Screenshot of my application running on Godwoken:
 ### [Link to the GitHub repository with your application which has been ported to Godwoken.](https://github.com/nicky-ru/blockchain-workshop)
 
 Deployed contract address: 0x9b03179b41f3ab51863aD9E3734Ff4a66887bC10
+
 Deploy transaction hash: 0x5a2d17515a29aac604ec0b152b04e7470fa74af3582dfbee2ae4bdfcfbd3df3c
 
 ```json
