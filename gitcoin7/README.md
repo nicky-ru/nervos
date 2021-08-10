@@ -1,10 +1,10 @@
 # Gitcoin: 7) Port An Existing Ethereum DApp To Polyjuice
 
-## ![DEMO (VIDEO)](https://youtu.be/raUOXnUkxrk)
+## [DEMO (VIDEO)](https://youtu.be/raUOXnUkxrk)
 
 Screenshot of my application running on Godwoken:
 
-![Screenshot of my application running on Godwoken](PUTLINKHERE)
+![Screenshot of my application running on Godwoken](https://github.com/nicky-ru/nervos/blob/7a62a24bf4e456dd4e3047b2ee0677cf4ffff9ce/gitcoin7/Screen%20Shot%202021-08-10%20at%206.32.53%20PM.png)
 
 ### [Link to the GitHub repository with your application which has been ported to Godwoken.](https://github.com/nicky-ru/blockchain-workshop)
 
